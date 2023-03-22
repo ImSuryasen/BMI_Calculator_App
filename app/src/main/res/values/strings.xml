@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BMI Calculator App</string>
+
+    <string name="strOverWt">You\'re OverWeight</string>
+    <string name="strUnderWt">You\'re UnderWeight</string>
+    <string name="strHealthy">You\'re Healthy</string>
+</resources>
